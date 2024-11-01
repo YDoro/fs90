@@ -9,7 +9,6 @@ Utilizaremos as seguintes ferramentas:
     - extensões
         - [html preview](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode)
         - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-        - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 - [chrome](https://www.google.com.br/chrome/) **e** [firefox](https://www.mozilla.org/pt-PT/firefox/new/)
     - extensões
         - [React DevTools](https://react.dev/learn/react-developer-tools)
