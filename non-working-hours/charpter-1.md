@@ -5,7 +5,6 @@ Aqui segue uma lista discritiva de requisitos para essa tarefa
 - A calculadora deve exibir o título "Calculadora de Horas Trabalhadas Morcegadas" no corpo
     - O título deve conter a palavra "trabalhadas" riscada ;
 - A calculadora deve exibir o titulo "🦇 BatCalculadora" na aba do navegador
-- A fonte da página deve ser "Segoe UI" ou "Roboto" ou "Helvetica Neue" ou sans-serif;
 - a calculadora deve ter os seguintes campos
     - minutos conversando
         - numérico, inteiro e positivo
