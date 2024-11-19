@@ -45,9 +45,8 @@ Também precisaremos de:
   - Eventos e manipulação de elementos da página
 
 - **Prática**
-  - Criar interações como slideshows, menus dropdown e carrosséis
-  - Trabalhar com formulários: validações simples e envio (sem backend ainda)
-  - Projetos práticos: Calculadora e To-Do List
+  - Adicionar calculos ao projeto da BatCalculadora e exibir o resultado ao pressionar calcular
+  - Consumir uma API para gravar os dados da calculadora e exibir um histórico.
 
 ---
 
